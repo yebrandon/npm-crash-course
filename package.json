@@ -14,7 +14,7 @@
 	"author": "Brandon Ye",
 	"license": "MIT",
 	"dependencies": {
-		"lodash": "^4.17.19"
+		"lodash": "^4.17.21"
 	},
 	"devDependencies": {
 		"live-server": "^1.2.1"
